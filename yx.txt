@@ -62,7 +62,6 @@ xn--vjq503a.cloudflare.182682.xyz#xn--vjq503a.cloudflare.182682.xyz
 bk.jdkg.org#bk.jdkg.org
 www.sxivy.com#www.sxivy.com
 cdn.0578.eu.org#cdn.0578.eu.org
-dediseedbox.com#dediseedbox.com
 xn--mcrt9b.cloudflare.182682.xyz#xn--mcrt9b.cloudflare.182682.xyz
 www.futbin.com#www.futbin.com
 acgs.one#acgs.one
@@ -72,7 +71,6 @@ yundunwawablogcdn1dx.wawacm.com#yundunwawablogcdn1dx.wawacm.com
 wnwn9.com#wnwn9.com
 dy.99294837.xyz#dy.99294837.xyz
 mp3h.ysxs.top#mp3h.ysxs.top
-www.dafuhao.com#www.dafuhao.com
 forums.welltrainedmind.com#forums.welltrainedmind.com
 w88u65.com#w88u65.com
 xn--nagykrs-f1a13f.cylex.hu#xn--nagykrs-f1a13f.cylex.hu
@@ -313,3 +311,4 @@ www.vdtat.gov.lt#www.vdtat.gov.lt
 104.19.150.163#CMCC
 
 104.17.219.208#CMCC
+
