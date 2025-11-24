@@ -26,7 +26,6 @@ cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
 cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 cdn.2020111.xyz#cdn.2020111.xyz
 cloudflare.182682.xyz#cloudflare.182682.xyz
-cf.090227.xyz#cf.090227.xyz
 cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
 cfip.1323123.xyz#cfip.1323123.xyz
 bestcf.top#bestcf.top
@@ -311,4 +310,5 @@ www.vdtat.gov.lt#www.vdtat.gov.lt
 104.19.150.163#CMCC
 
 104.17.219.208#CMCC
+
 
