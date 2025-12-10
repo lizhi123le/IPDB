@@ -74,6 +74,11 @@ forums.welltrainedmind.com#forums.welltrainedmind.com
 w88u65.com#w88u65.com
 xn--nagykrs-f1a13f.cylex.hu#xn--nagykrs-f1a13f.cylex.hu
 www.vdtat.gov.lt#www.vdtat.gov.lt
+cfcn-a-freecta17.sectigo.pp.ua
+txt.pantxt.top
+freeyx.cloudflare88.eu.org
+cfyx.tencentapp.cn
+cfcn-a-freecta.dnshtcb.pp.ua
 yg9.ygkkk.dpdns.org
 download.yunzhongzhuan.com
 www.25tvw.com
@@ -299,3 +304,4 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
