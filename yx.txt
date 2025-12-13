@@ -171,7 +171,6 @@ blue-archive.io
 chillipromotions.com.au
 sehu.my
 ikantv.net
-www.v2raz.vip
 wvwv.power7sz.com
 ipv4-2.19942566.xyz
 [2606:4700:4404:7dbf:eca8:fc6:fe1a:1955]#SG
@@ -355,4 +354,5 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
 
