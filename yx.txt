@@ -59,7 +59,6 @@ www.xinjuc.com#www.xinjuc.com
 www.otc-eu.com#www.otc-eu.com
 xn--vjq503a.cloudflare.182682.xyz#xn--vjq503a.cloudflare.182682.xyz
 bk.jdkg.org#bk.jdkg.org
-www.sxivy.com#www.sxivy.com
 cdn.0578.eu.org#cdn.0578.eu.org
 xn--mcrt9b.cloudflare.182682.xyz#xn--mcrt9b.cloudflare.182682.xyz
 www.futbin.com#www.futbin.com
@@ -148,7 +147,6 @@ ttmjtt.com
 www.cctgxw168.com
 api.ip.sb
 www.lihuacarbide.com
-c9b7.svfhrwf.com
 www.biglizards.net
 jq.ddosjq.xyz
 taozhitv20.my
@@ -357,3 +355,4 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
