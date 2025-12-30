@@ -1,6 +1,15 @@
 cf.090227.xyz#联通优选线路
 ct.090227.xyz#电信优选线路
 cmcc.090227.xyz#移动优选线路
+mfa.gov.ua#mfa.gov.ua
+saas.sin.fan#saas.sin.fan
+store.ubi.com#store.ubi.com
+cf.130519.xyz#cf.130519.xyz
+cf.008500.xyz#cf.008500.xyz
+cf.877774.xyz#cf.877774.xyz
+cdns.doon.eu.org#cdns.doon.eu.org
+sub.danfeng.eu.org#sub.danfeng.eu.org
+cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 icook.hk#icook.hk
 icook.tw#icook.tw
 visa.com.hk#visa.com.hk
@@ -82,7 +91,6 @@ yg9.ygkkk.dpdns.org
 download.yunzhongzhuan.com
 www.25tvw.com
 www.anfu88.com
-saas.sin.fan#saas.sin.fan
 v.yyxycn.com
 www.cnjunjie.com
 claude.rei.lc
@@ -413,4 +421,3 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
-
