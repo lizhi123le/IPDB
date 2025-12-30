@@ -98,7 +98,6 @@ chat-brasil.com
 www.rouww.com
 hzls114.com
 www.515bao.com
-cdns.doon.eu.org
 cocolen.com
 www.eexxx.com
 www.wukonghd.com
@@ -420,4 +419,5 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
 
