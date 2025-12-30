@@ -32,7 +32,6 @@ pranab.ns.cloudflare.com#pranab.ns.cloudflare.com
 rustam.ns.cloudflare.com#rustam.ns.cloudflare.com
 freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
-cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 cdn.2020111.xyz#cdn.2020111.xyz
 cloudflare.182682.xyz#cloudflare.182682.xyz
 cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
@@ -421,3 +420,4 @@ ipv4-2.19942566.xyz
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
