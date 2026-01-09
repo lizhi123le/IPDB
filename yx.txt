@@ -176,25 +176,13 @@ wvwv.power7sz.com
 ipv4-2.19942566.xyz
 www.7hys.com
 www.linkflow.run
-hktvyun.com
-gouwang.tusuktsuk.pro
 m.wangdai123.net
-www584.com
 www.klwt88.com
 www.xuioo.com
-2109245141.cdn.site.cdn300.cn
 gt9188.com
 6.887141.xyz
-www.hotel-bb.com
-4hubb92.com
-www.bqg26.com
-87cs.cc
 sehua37.com
 www.shanxihuana.com
-664hs.com
-jp04.nttkk.com
-shmeiyun.com
-www.lutube.com
 ynlong.com
 www.101yaoye.com
 amoebi.com
@@ -334,7 +322,6 @@ amoebi.com
 47.238.161.64:39214#HK10
 103.117.101.168:56457#HK2
 43.156.116.194#SG8
-141.11.91.67:8080#HK3
 144.24.85.149:12095#KR7
 104.27.94.254:2087#CU4
 104.25.252.185:8443#FDYFP
@@ -431,6 +418,7 @@ amoebi.com
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
 
 
 
