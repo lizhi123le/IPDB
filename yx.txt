@@ -83,7 +83,6 @@ xn--nagykrs-f1a13f.cylex.hu#xn--nagykrs-f1a13f.cylex.hu
 www.vdtat.gov.lt#www.vdtat.gov.lt
 cfcn-a-freecta17.sectigo.pp.ua
 txt.pantxt.top
-freeyx.cloudflare88.eu.org
 cfyx.tencentapp.cn
 cfcn-a-freecta.dnshtcb.pp.ua
 yg9.ygkkk.dpdns.org
@@ -350,7 +349,6 @@ amoebi.com
 104.17.102.95:2096#CMCC2
 219.76.13.180#HK7
 131.186.24.124:587#KR5
-219.76.13.166#HK8
 58.229.126.162:15456#US4
 62.60.245.251#DE13
 62.60.244.147#DE25
@@ -379,7 +377,6 @@ amoebi.com
 162.159.153.109:2096#电信优选04
 162.159.153.222:2096#电信优选05
 219.76.13.166#香港02
-219.76.13.177#香港05
 140.238.5.75:13644#韩国03
 132.226.23.92:22053#韩国06
 140.238.8.194:15800#韩国07
@@ -409,6 +406,7 @@ amoebi.com
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
 
 
 
