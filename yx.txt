@@ -12,6 +12,8 @@ icook.hk#icook.hk
 icook.tw#icook.tw
 usa.visa.com#usa.visa.com
 myanmar.visa.com#myanmar.visa.com
+www.visa.com.hk#www.visa.com.hk
+www.visa.com.tw#www.visa.com.tw
 www.visaeurope.ch#www.visaeurope.ch
 www.visa.com.br#www.visa.com.br
 www.visasoutheasteurope.com#www.visasoutheasteurope.com
