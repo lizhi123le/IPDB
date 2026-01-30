@@ -8,6 +8,7 @@ cf.877774.xyz#cf.877774.xyz
 cdns.doon.eu.org#cdns.doon.eu.org
 sub.danfeng.eu.org#sub.danfeng.eu.org
 cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
+baota.me#baota.me
 icook.hk#icook.hk
 icook.tw#icook.tw
 usa.visa.com#usa.visa.com
