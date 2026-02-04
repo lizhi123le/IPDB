@@ -1,6 +1,25 @@
 cf.090227.xyz#联通优选线路
 ct.090227.xyz#电信优选线路
 cmcc.090227.xyz#移动优选线路
+cf.godns.cc
+cf-cname.xingpingcn.top
+cu.877774.xyz
+staticdelivery.nexusmods.com
+tajikistan.mfa.gov.ua
+da.mfa.gov.ua
+nexusmods.com
+www.ntu.edu.sg
+cfsaas.080112.xyz
+www.libvio.site
+859ct.cc
+cfyx.dnspod.20237737.xyz
+dnew.cc
+serviceshub.samsclub.com
+278vd.cc
+aqua-aria.company
+cloudflare.cnae.top
+blog.raindew.576555.xyz
+yapuyapu.com
 saas.sin.fan#saas.sin.fan
 store.ubi.com#store.ubi.com
 cf.130519.xyz#cf.130519.xyz
@@ -419,4 +438,5 @@ www2.sugarsync.com
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
+
 
