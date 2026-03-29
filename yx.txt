@@ -48,7 +48,6 @@ pranab.ns.cloudflare.com#pranab.ns.cloudflare.com
 rustam.ns.cloudflare.com#rustam.ns.cloudflare.com
 freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
-cdn.2020111.xyz#cdn.2020111.xyz
 cloudflare.182682.xyz#cloudflare.182682.xyz
 cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
 cdn.tzpro.xyz#cdn.tzpro.xyz
@@ -97,7 +96,6 @@ www.rouww.com
 hzls114.com
 www.515bao.com
 cocolen.com
-www.eexxx.com
 www.wukonghd.com
 szjm168.com
 www.longtasteel.com
@@ -116,8 +114,6 @@ metropoli.net
 www.cxthhhhh.com
 xf.44xf.cc
 bb2r.com
-s.gxhntx.com
-4.namesilo123.top
 vz.katck.com
 archive.blue-archive.io
 videosolo.com
@@ -135,9 +131,7 @@ api.ip.sb
 www.lihuacarbide.com
 www.biglizards.net
 ctystone.com
-www.qwqdown.com
 www.zxzja.com
-e23r.buzz
 www.sopedra.com
 guofang12580.com
 ha10.net
@@ -148,7 +142,6 @@ www.5wtv.com
 www.meganracing.com
 blue-archive.io
 chillipromotions.com.au
-wvwv.power7sz.com
 ipv4-2.19942566.xyz
 www.linkflow.run
 www.klwt88.com
@@ -158,13 +151,11 @@ www.shanxihuana.com
 ynlong.com
 www.101yaoye.com
 amoebi.com
-www.167177.xyz
 www.28dushu.com
 www.3dck.cc
 www.4444mk.com
 www.58dy.cc
 www.865vv.com
-www.91hongfu.net
 www.92xy.net
 www.aidiqiuguolv.com
 www.alayam.com
@@ -177,16 +168,13 @@ www.budao24.com
 www.clun.top
 www.continuuminnovation.com
 www.dafuweng.com
-www.daomubiji.cc
 www.decathlon.cz
 www.dk713.com
 www.dk717.com
 www.duolunmoma.org
-www.erx.com.au
 www.galgamex.net
 www.getflywheel.com
 www.hbdjn.com
-www.hjcb7f.top
 www.hollywoodcasino.com
 www.huakai2024.com
 www.incredible.co.za
@@ -199,7 +187,6 @@ www.longwangchuanshuo.net
 www.luoqiucn.com
 www.michigancustomknives.com
 www.nkeconwatch.com
-www.pansoso.net
 www.qinzi168.com
 www.qiuxiaw.com
 www.qiuyi.ddns-ip.net
@@ -257,7 +244,6 @@ www2.sugarsync.com
 [2606:4700:58:4ed3:63ef:a31a:1dd1:69e3]#SG
 [2606:4700:56:3341:c9b2:230:bf82:9c50]#SG
 [2a06:98c1:3105:bd73:e79e:2acf:e441:499d]#SG
-[2400:cb00:f00e:6555:c766:3fce:dc45:cc5f]#SG
 [2606:4700:4700:4a98:a0bc:dfea:b4fd:8258]#SG
 [2a06:98c1:53:63b2:30c:d6df:c532:c48c]#SG
 [2606:4700:4409:a339:9f0e:dd0d:d191:93d1]#SG
@@ -368,8 +354,6 @@ www2.sugarsync.com
 172.64.229.222:2096#CT2
 172.64.229.228:2096#CT1
 172.64.229.220:2096#CT3
-35.176.229.223:80#GB5
-146.56.163.131:444#KR1
 164.52.2.99#SG9
 104.16.246.132:8443#CMCC1
 104.17.127.61:2087#CU2
@@ -383,9 +367,7 @@ www2.sugarsync.com
 104.18.110.214:2087#CU3
 104.16.253.158:8443#CU1
 104.17.102.95:2096#CMCC2
-219.76.13.180#HK7
 131.186.24.124:587#KR5
-58.229.126.162:15456#US4
 62.60.245.251#DE13
 104.17.30.149#CF-14.76MB
 104.16.155.143
@@ -418,15 +400,9 @@ www2.sugarsync.com
 57.128.183.82#英国01
 57.128.177.172:8443#英国02
 57.128.183.137#英国04
-57.128.182.27#英国05
-57.128.176.87:8443#英国06
-57.128.176.37:8443#英国08
 57.128.183.79#英国09
-57.128.176.82#英国10
 88.99.189.60#法国05
 195.201.148.147#法国07
-157.90.119.128:2096#法国08
-207.154.232.202:8443#德国08
 162.159.152.205#CT
 162.159.152.81#CT
 162.159.153.156#CT
@@ -438,5 +414,3 @@ www2.sugarsync.com
 104.18.85.29#CMCC
 104.19.150.163#CMCC
 104.17.219.208#CMCC
-
-
