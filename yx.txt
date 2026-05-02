@@ -2,9 +2,6 @@ cf.090227.xyz#联通优选线路
 ct.090227.xyz#电信优选线路
 cmcc.090227.xyz#移动优选线路
 cdn.2020111.xyz
-bdn.cf.licdn.top
-speed.marisalnc.com
-115155.xyz
 cf.godns.cc
 cf-cname.xingpingcn.top
 cu.877774.xyz
