@@ -2,8 +2,6 @@ cf.090227.xyz#联通优选线路
 ct.090227.xyz#电信优选线路
 cmcc.090227.xyz#移动优选线路
 cdn.2020111.xyz
-cf.godns.cc
-cf-cname.xingpingcn.top
 cu.877774.xyz
 staticdelivery.nexusmods.com
 tajikistan.mfa.gov.ua
@@ -12,22 +10,17 @@ nexusmods.com
 www.ntu.edu.sg
 cfsaas.080112.xyz
 www.libvio.site
-859ct.cc
 cfyx.dnspod.20237737.xyz
 dnew.cc
 serviceshub.samsclub.com
-278vd.cc
 aqua-aria.company
-cloudflare.cnae.top
 blog.raindew.576555.xyz
 yapuyapu.com
 saas.sin.fan#saas.sin.fan
 store.ubi.com#store.ubi.com
-cf.130519.xyz#cf.130519.xyz
 cf.877774.xyz#cf.877774.xyz
 cdns.doon.eu.org#cdns.doon.eu.org
 sub.danfeng.eu.org#sub.danfeng.eu.org
-cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 baota.me#baota.me
 icook.hk#icook.hk
 icook.tw#icook.tw
@@ -38,16 +31,6 @@ www.visa.com.tw#www.visa.com.tw
 www.visaeurope.ch#www.visaeurope.ch
 www.visa.com.br#www.visa.com.br
 www.visasoutheasteurope.com#www.visasoutheasteurope.com
-ashton.ns.cloudflare.com#ashton.ns.cloudflare.com
-cris.ns.cloudflare.com#cris.ns.cloudflare.com
-decker.ns.cloudflare.com#decker.ns.cloudflare.com
-dylan.ns.cloudflare.com#dylan.ns.cloudflare.com
-lewis.ns.cloudflare.com#lewis.ns.cloudflare.com
-huxley.ns.cloudflare.com#huxley.ns.cloudflare.com
-julio.ns.cloudflare.com#julio.ns.cloudflare.com
-pranab.ns.cloudflare.com#pranab.ns.cloudflare.com
-rustam.ns.cloudflare.com#rustam.ns.cloudflare.com
-freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz#cloudflare.182682.xyz
 cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
@@ -68,10 +51,7 @@ sykepleiediskusjon.net#sykepleiediskusjon.net
 yundunwawablogcdn1yd.wawacm.com#yundunwawablogcdn1yd.wawacm.com
 www.yava.pw#www.yava.pw
 www.gpltimes.com#www.gpltimes.com
-www.xinjuc.com#www.xinjuc.com
-www.otc-eu.com#www.otc-eu.com
 xn--vjq503a.cloudflare.182682.xyz#xn--vjq503a.cloudflare.182682.xyz
-bk.jdkg.org#bk.jdkg.org
 cdn.0578.eu.org#cdn.0578.eu.org
 xn--mcrt9b.cloudflare.182682.xyz#xn--mcrt9b.cloudflare.182682.xyz
 www.futbin.com#www.futbin.com
@@ -83,25 +63,15 @@ mp3h.ysxs.top#mp3h.ysxs.top
 forums.welltrainedmind.com#forums.welltrainedmind.com
 xn--nagykrs-f1a13f.cylex.hu#xn--nagykrs-f1a13f.cylex.hu
 www.vdtat.gov.lt#www.vdtat.gov.lt
-txt.pantxt.top
-cfyx.tencentapp.cn
-cfcn-a-freecta.dnshtcb.pp.ua
 yg9.ygkkk.dpdns.org
-www.25tvw.com
 www.anfu88.com
-v.yyxycn.com
-claude.rei.lc
-bhoos.oss.bff8.cn
 chat-brasil.com
 www.rouww.com
 hzls114.com
 www.515bao.com
-cocolen.com
-www.wukonghd.com
 szjm168.com
 www.longtasteel.com
 www.lxsk.net
-www.tvgot.com
 www.shanglongze.com
 jsc.adskeeper.com
 m.lunnao.com
@@ -114,7 +84,6 @@ www.8a3c6.com
 metropoli.net
 www.cxthhhhh.com
 xf.44xf.cc
-bb2r.com
 vz.katck.com
 archive.blue-archive.io
 videosolo.com
@@ -122,12 +91,7 @@ ziyin.cc
 m98th.com
 iios.fun
 www.shronghua.com
-www.u88mn.com
 tech.slashdot.org
-www.clp44.shop
-www.14nn.com
-hxc272.com
-www.cctgxw168.com
 api.ip.sb
 www.lihuacarbide.com
 www.biglizards.net
@@ -137,7 +101,6 @@ www.sopedra.com
 guofang12580.com
 ha10.net
 opto-e.de
-ozvabkpd.top
 michellawyers.com
 www.5wtv.com
 www.meganracing.com
@@ -146,10 +109,8 @@ chillipromotions.com.au
 ipv4-2.19942566.xyz
 www.linkflow.run
 www.klwt88.com
-www.xuioo.com
 sehua37.com
 www.shanxihuana.com
-ynlong.com
 www.101yaoye.com
 amoebi.com
 www.28dushu.com
@@ -160,13 +121,11 @@ www.865vv.com
 www.92xy.net
 www.aidiqiuguolv.com
 www.alayam.com
-www.americanvault.us
 www.antinews.gr
 www.ayqywh.com
 www.bilinovel.com
 www.bochuang88.com
 www.budao24.com
-www.clun.top
 www.continuuminnovation.com
 www.dafuweng.com
 www.decathlon.cz
@@ -177,11 +136,8 @@ www.galgamex.net
 www.getflywheel.com
 www.hbdjn.com
 www.hollywoodcasino.com
-www.huakai2024.com
 www.incredible.co.za
 www.jiuse353.xyz
-www.js-rongtuo.com
-www.kp15c.top
 www.kp36e.top
 www.l7249b.com
 www.longwangchuanshuo.net
@@ -189,18 +145,13 @@ www.luoqiucn.com
 www.michigancustomknives.com
 www.nkeconwatch.com
 www.qinzi168.com
-www.qiuxiaw.com
-www.qiuyi.ddns-ip.net
 www.qvapehouse.com
 www.s699.com
-www.sanyecao.one
 www.sobods.com
-www.soft5156.com
 www.tockt.com
 www.traveldailynews.com
 www.westlieford.com
 www.wxxsw.cc
-www.wz222333.com
 www.xgtong.com
 www.xuanqishi.com
 www.xyfc123.com
@@ -208,65 +159,30 @@ www.yslbeautyth.com
 www.yxsh.app
 www.zyks-lv.com
 www2.sugarsync.com
-173.245.59.206:443#🇸🇬 新加坡
 190.93.246.45:443#🇸🇬 新加坡
-108.162.195.213:443#🇸🇬 新加坡
 188.114.99.67:443#🇸🇬 新加坡
 104.16.16.181:443#🇸🇬 新加坡
-198.41.222.12#🇸🇬 新加坡
-108.162.193.199#🇸🇬 新加坡
-108.162.196.70#🇸🇬 新加坡
 104.24.184.10:443#🇸🇬 新加坡
 162.159.249.116:443#🇸🇬 新加坡
-173.245.59.137:443#🇸🇬 新加坡
 104.24.22.80:443#🇸🇬 新加坡
 104.21.199.204:443#🇸🇬 新加坡
-198.41.202.33:443#🇸🇬 新加坡
-172.64.35.194#🇸🇬 新加坡
-172.64.38.20#🇸🇬 新加坡
-162.159.15.185#🇸🇬 新加坡
-198.41.223.59#🇸🇬 新加坡
-162.159.8.201#🇸🇬 新加坡
-162.159.14.232#🇸🇬 新加坡
-108.162.192.206#🇸🇬 新加坡
-162.159.13.57#🇸🇬 新加坡
-162.159.9.33#🇸🇬 新加坡
-108.162.195.163#🇸🇬 新加坡
-172.64.48.112#🇸🇬 新加坡
 172.64.148.86#🇸🇬 新加坡
 188.114.99.155:443#🇯🇵 东京成田
-103.21.244.214:443#🇯🇵 东京成田
 188.114.97.167:443#🇯🇵 东京成田
 104.27.28.249#🇯🇵 东京成田
 104.27.204.37#🇯🇵 东京成田
 104.25.221.80#🇯🇵 东京成田
 162.159.130.183#🇯🇵 东京成田
 104.16.40.163#🇯🇵 东京成田
-108.162.198.135#🇯🇵 东京成田
 103.31.4.222#🇯🇵 东京成田
-162.159.38.8#🇯🇵 东京成田
-172.64.52.79#🇯🇵 东京成田
-162.159.45.234#🇯🇵 东京成田
-172.64.53.213#🇯🇵 东京成田
 172.64.229.209#🇯🇵 东京成田
-108.162.198.227#🇯🇵 东京成田
-162.159.39.108#🇯🇵 东京成田
-162.159.44.168#🇯🇵 东京成田
 104.17.60.0#🇯🇵 东京成田
-162.159.39.4#🇯🇵 东京成田
-162.159.44.82#🇯🇵 东京成田
-162.159.45.92#🇯🇵 东京成田
-162.159.38.245#🇯🇵 东京成田
 172.64.229.104#🇯🇵 东京成田
-108.162.198.30#🇯🇵 东京成田
 172.67.179.190#🇯🇵 大阪关西
 188.114.96.108:443#🇯🇵 大阪关西
 104.24.252.24:443#🇯🇵 大阪关西
 173.245.49.72:443#🇯🇵 大阪关西
-198.41.209.90#🇯🇵 大阪关西
 190.93.247.39#🇯🇵 大阪关西
-198.41.215.9:443#🇰🇷 首尔仁川
-173.245.59.115:443#🇰🇷 首尔仁川
 190.93.244.3:443#🇰🇷 首尔仁川
 188.114.97.244:443#🇰🇷 首尔仁川
 190.93.246.55:443#🇰🇷 首尔仁川
@@ -277,11 +193,8 @@ www2.sugarsync.com
 141.101.121.77:443#🇰🇷 首尔仁川
 103.31.4.47:443#🇰🇷 首尔仁川
 188.114.99.74:443#🇰🇷 首尔仁川
-108.162.193.154:443#🇰🇷 首尔仁川
 104.24.188.98:443#🇰🇷 首尔仁川
-162.159.62.149:443#🇰🇷 首尔仁川
 103.31.4.220:443#🇰🇷 首尔仁川
-103.21.244.65:443#🇰🇷 首尔仁川
 103.31.4.88:443#🇰🇷 首尔仁川
 172.66.175.38:443#🇰🇷 首尔仁川
 141.101.123.49:443#🇰🇷 首尔仁川
@@ -289,28 +202,12 @@ www2.sugarsync.com
 104.16.34.251:443#🇭🇰 香港
 190.93.245.144:443#🇭🇰 香港
 173.245.49.155:443#🇭🇰 香港
-198.41.207.106:443#🇭🇰 香港
-173.245.59.132:443#🇭🇰 香港
 104.21.95.218:443#🇭🇰 香港
 188.114.97.7:443#🇭🇰 香港
 104.25.241.186:443#🇭🇰 香港
-151.245.90.96:8443#🇭🇰 香港
-154.16.183.190:443#🇭🇰 香港
-207.57.128.194:443#🇭🇰 香港
-212.192.15.182:443#🇭🇰 香港
-216.236.38.234:443#🇭🇰 香港
-38.190.210.250:443#🇭🇰 香港
-43.154.131.189:443#🇭🇰 香港
-149.104.6.78:8443#🇭🇰 香港
-176.98.181.71:443#🇭🇰 香港
 217.60.38.113:443#🇭🇰 香港
-23.175.201.2:8443#🇭🇰 香港
-45.149.92.150:443#🇭🇰 香港
 45.38.60.153:2053#🇭🇰 香港
 45.38.60.153:8443#🇭🇰 香港
-45.39.190.24:2053#🇭🇰 香港
-45.39.190.24:8443#🇭🇰 香港
-47.76.218.163:443#🇭🇰 香港
 91.149.237.61:443#🇭🇰 香港
 96.9.228.241:443#🇭🇰 香港
 2.56.91.167:443#🇭🇰 香港
@@ -329,7 +226,6 @@ www2.sugarsync.com
 104.27.15.18#🇩🇪 法兰克福
 172.64.92.110#🇺🇸 洛杉矶
 104.18.117.227#🇺🇸 洛杉矶
-198.41.200.178#🇺🇸 洛杉矶
 104.19.173.103#🇺🇸 洛杉矶
 104.18.189.60#🇺🇸 洛杉矶
 104.19.12.176#🇺🇸 洛杉矶
@@ -375,22 +271,9 @@ www2.sugarsync.com
 104.21.199.156#🇳🇱 阿姆斯特丹
 104.21.93.108#🇳🇱 阿姆斯特丹
 104.21.218.187#🇳🇱 阿姆斯特丹
-172.65.50.124#🇳🇱 阿姆斯特丹
 103.137.22.71:8443#🇹🇼 中国台湾
-125.228.236.138:443#🇹🇼 中国台湾
-188.253.6.136:443#🇹🇼 中国台湾
-188.253.6.173:443#🇹🇼 中国台湾
-188.253.6.209:443#🇹🇼 中国台湾
-223.165.4.57:443#🇹🇼 中国台湾
 82.152.91.210:443#🇹🇼 中国台湾
-162.159.45.244#JP
-162.159.38.235#JP
 172.64.229.225#JP
-162.159.39.197#JP
-108.162.198.234#JP
-172.64.53.126#JP
-162.159.44.86#JP
-172.64.52.176#JP
 [2606:4700:4404:7dbf:eca8:fc6:fe1a:1955]#SG
 [2a06:98c1:50:c124:1fbc:8b98:e325:8e85]#SG
 [2606:4700:440b:f083:2a54:da9c:9a14:4c80]#SG
@@ -444,86 +327,34 @@ www2.sugarsync.com
 [2a06:98c1:3101:1109:190e:a465:ccdd:21b8]#SG
 [2a06:98c1:3102:1117:50e1:ebf9:6e62:b994]#SG
 [2606:4700:59:179b:5634:f65e:f31a:ee94]#SG
-162.159.61.138#SG
-162.159.42.164#SG
-162.159.48.238#SG
-162.159.13.22#SG
-162.159.21.65#SG
-198.41.223.183#SG
 104.18.33.145#SG
-162.159.20.200#SG
 104.18.45.208#SG
-162.159.17.25#SG
-172.64.50.246#SG
-162.159.43.168#SG
-108.162.192.79#SG
-162.159.15.49#SG
 104.18.47.88#SG
-162.159.46.230#SG
-108.162.194.160#SG
-162.159.6.194#SG
-162.159.19.3#SG
 104.18.41.82#SG
-162.159.36.197#SG
 104.18.35.12#SG
-162.159.5.41#SG
-162.159.16.131#SG
 104.18.39.209#SG
 104.18.38.11#SG
 104.18.34.64#SG
 104.18.46.208#SG
-162.159.35.78#SG
-162.159.23.84#SG
 104.18.37.48#SG
-162.159.12.129#SG
 104.18.43.3#SG
-162.159.9.231#SG
-108.162.193.242#SG
-198.41.211.108#SG
-162.159.58.123#SG
-162.159.7.248#SG
 104.18.42.209#SG
-162.159.32.102#SG
-162.159.18.53#SG
 172.64.154.137#SG
-162.159.22.57#SG
 172.64.147.23#SG
 172.64.151.240#SG
 172.64.155.73#SG
-162.159.1.137#SG
 172.64.156.126#SG
 172.64.146.26#SG
 172.64.157.170#SG
-162.159.2.154#SG
-162.159.4.9#SG
 104.18.32.21#SG
-108.162.196.160#SG
 172.64.149.159#SG
 172.64.145.148#SG
-162.159.0.241#SG
-162.159.3.253#SG
-172.64.42.31#SG
 104.18.36.15#SG
-108.162.195.250#SG
 8.35.211.102#SG
-198.41.222.246#SG
 8.39.125.130#SG
-172.64.32.155#SG
-172.64.33.192#SG
-172.64.38.6#SG
-172.64.35.138#SG
-172.64.41.31#SG
-172.64.40.68#SG
-162.159.40.153#SG
 104.18.40.115#SG
-162.159.14.110#SG
-162.159.8.249#SG
-162.159.41.42#SG
-162.159.49.144#SG
-162.159.36.104#SG
 154.83.2.26:2096#HKG4
 154.83.2.231:2087#HKG5
-47.238.161.64:39214#HK10
 43.156.116.194#SG8
 144.24.85.149:12095#KR7
 104.27.94.254:2087#CU4
@@ -533,18 +364,10 @@ www2.sugarsync.com
 164.52.2.99#SG9
 104.16.246.132:8443#CMCC1
 104.17.127.61:2087#CU2
-219.76.13.177#HK1
-80.76.32.165#DE6
-128.140.11.25:25690#FR9
-78.46.234.136:2053#FR8
-130.61.107.238:8443#DE7
 104.17.238.123:2087#CU5
-138.68.141.220:2053#GB7
 104.18.110.214:2087#CU3
 104.16.253.158:8443#CU1
 104.17.102.95:2096#CMCC2
-131.186.24.124:587#KR5
-62.60.245.251#DE13
 104.17.30.149#CF-14.76MB
 104.25.252.185:8443#移动优选01
 104.25.254.197:2096#移动优选02
@@ -558,17 +381,9 @@ www2.sugarsync.com
 104.19.107.190:2096#电信优选03
 162.159.153.109:2096#电信优选04
 162.159.153.222:2096#电信优选05
-219.76.13.166#香港02
 140.238.5.75:13644#韩国03
-132.226.23.92:22053#韩国06
 140.238.8.194:15800#韩国07
 146.235.18.248:45137#新加坡10
-57.128.183.82#英国01
-57.128.177.172:8443#英国02
-57.128.183.137#英国04
-57.128.183.79#英国09
-88.99.189.60#法国05
-195.201.148.147#法国07
 162.159.152.205#CT
 162.159.152.81#CT
 162.159.153.156#CT
